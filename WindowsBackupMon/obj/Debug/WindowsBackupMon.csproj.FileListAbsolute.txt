@@ -1,0 +1,12 @@
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\obj\Debug\WindowsBackupMon.Form1.resources
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\obj\Debug\WindowsBackupMon.Properties.Resources.resources
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\obj\Debug\WindowsBackupMon.csproj.GenerateResource.cache
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\obj\Debug\WindowsBackupMon.csproj.CoreCompileInputs.cache
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\bin\Debug\WindowsBackupMon.exe.config
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\bin\Debug\WindowsBackupMon.exe
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\bin\Debug\WindowsBackupMon.pdb
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\obj\Debug\WindowsBackupMon.exe
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\obj\Debug\WindowsBackupMon.pdb
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\bin\Debug\Microsoft.Management.Infrastructure.dll
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\obj\Debug\WindowsBackupMon.csproj.CopyComplete
+A:\Google Drive\Projects\WindowsBackupMon\WindowsBackupMon\WindowsBackupMon\obj\Debug\WindowsBackupMon.AddServer.resources
